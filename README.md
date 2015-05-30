@@ -2,9 +2,11 @@
 An Implementation of the Vignere Cipher
 
 
-compile the project by 
+- compile the project by 
+```
 g++ Cipher.cc main.cc
-
-to run the program 
+```
+- to run the program 
+```
 ./a.out
-
+```
